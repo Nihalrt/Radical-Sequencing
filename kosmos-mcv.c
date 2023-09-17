@@ -1,7 +1,6 @@
 /*
  * kosmos-mcv.c (mutexes & condition variables)
  *
- * UVic CSC 360, Summer 2023
  *
  * Here is some code from which to start.
  *
