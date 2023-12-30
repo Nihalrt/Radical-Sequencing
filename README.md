@@ -1,4 +1,4 @@
-# Radical-Formation-Multi-threading
+# Radical Sequencing
 
 ## Description
 The Kosmos-MCV project is a multi-threaded C program simulating interactions between Carbon (C) and Hydrogen (H) atoms. These atoms combine to form ethynyl radicals (C2H) in a controlled environment using mutexes and condition variables.
